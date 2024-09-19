@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**c4sares/c4sares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Salve rapeize 👋
+- 🔭 odio
+- 🌱 raiva
+- 👯 escola
+- 🤔 ajuda psicológica
+- 💬 não converse cmg
+- 📫 vc não pode me enviar nada
+- 😄 depende
+- ⚡ baleias tem uma espécie de cerdas no lugar de dentes
+  mds que coisa pré-histórica :3
